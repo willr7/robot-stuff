@@ -1,0 +1,18 @@
+C:\Users\willr\source\repos\Auto targeting turret\bin\Debug\Auto targeting turret.exe.config
+C:\Users\willr\source\repos\Auto targeting turret\bin\Debug\Auto targeting turret.exe
+C:\Users\willr\source\repos\Auto targeting turret\bin\Debug\Auto targeting turret.pdb
+C:\Users\willr\source\repos\Auto targeting turret\bin\Debug\AForge.dll
+C:\Users\willr\source\repos\Auto targeting turret\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\willr\source\repos\Auto targeting turret\bin\Debug\AForge.Video.dll
+C:\Users\willr\source\repos\Auto targeting turret\bin\Debug\AForge.xml
+C:\Users\willr\source\repos\Auto targeting turret\bin\Debug\AForge.Video.xml
+C:\Users\willr\source\repos\Auto targeting turret\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\willr\source\repos\Auto targeting turret\obj\Debug\Auto targeting turret.csproj.AssemblyReference.cache
+C:\Users\willr\source\repos\Auto targeting turret\obj\Debug\Auto_targeting_turret.Form1.resources
+C:\Users\willr\source\repos\Auto targeting turret\obj\Debug\Auto_targeting_turret.Properties.Resources.resources
+C:\Users\willr\source\repos\Auto targeting turret\obj\Debug\Auto targeting turret.csproj.GenerateResource.cache
+C:\Users\willr\source\repos\Auto targeting turret\obj\Debug\Auto targeting turret.csproj.CoreCompileInputs.cache
+C:\Users\willr\source\repos\Auto targeting turret\obj\Debug\Auto targeting turret.exe
+C:\Users\willr\source\repos\Auto targeting turret\obj\Debug\Auto targeting turret.pdb
+C:\Users\willr\source\repos\Auto targeting turret\bin\Debug\Newtonsoft.Json.dll
+C:\Users\willr\source\repos\Auto targeting turret\bin\Debug\Newtonsoft.Json.xml
